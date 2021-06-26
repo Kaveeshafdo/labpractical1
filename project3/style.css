@@ -1,0 +1,17 @@
+p{
+     text-align: center;
+    font-size: 50px;
+}
+#radin{
+  
+    width: 200px;
+    margin-top:200px;
+    min-height: 40px;
+
+}
+#sub{
+    width: 100px;
+    height: 40px;
+    background: green;
+}
+
