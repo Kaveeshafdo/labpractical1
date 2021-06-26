@@ -16,13 +16,13 @@
         ?>
         
         <table>
-            <thead>
+            
                 <tr>
                     <th>Description</th>
                     <th>Amount</th>
                 </tr>
-            </thead>
-            <tbody>
+            
+            
                 <tr>
                     <td>Transport Income</td>
                     <td><?php echo $transport_income; ?></td>
@@ -51,7 +51,7 @@
                     <td>Net Profit after TAX</td>
                     <td><?php echo $net_profit_after_tax; ?></td>
                 </tr>
-            </tbody>
+            
         </table>
 
 
