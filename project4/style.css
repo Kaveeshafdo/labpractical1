@@ -1,0 +1,12 @@
+tr,td{
+    border: solid black 1px;
+    font-family: calibri;
+    font-size: 18px;
+}
+
+td{
+    background-color: lightblue;
+}
+table{
+    margin: 100px 800px auto auto;
+}
