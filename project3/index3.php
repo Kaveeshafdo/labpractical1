@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>lab practical 1 project 3</title>
-        <link href ="style.css" type="text/css" rel="stylesheet">
+        <link href ="style3.css" type="text/css" rel="stylesheet">
     </head>
     <body>
         

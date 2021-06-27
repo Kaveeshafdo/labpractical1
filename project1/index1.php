@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>lab project 1 practical 1</title>
-        <link href ="style.css" type="text/css" rel="stylesheet"><!-- link exernal css file -->
+        <link href ="style1.css" type="text/css" rel="stylesheet"><!-- link exernal css file -->
     </head>
     <body>
         <?php

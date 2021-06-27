@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link href ="style.css" type="text/css" rel="stylesheet">
+        <link href ="style2.css" type="text/css" rel="stylesheet">
         <title>Lab practical 1 project2</title>
     </head>
     <body>

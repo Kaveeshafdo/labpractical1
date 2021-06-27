@@ -1,12 +1,15 @@
-tr,td{
+th,tr,td{
     border: solid black 1px;
     font-family: calibri;
     font-size: 18px;
 }
-
+th{
+    background-color: yellowgreen;
+}
 td{
     background-color: lightblue;
 }
 table{
-    margin: 100px 800px auto auto;
+  margin: 100px auto auto;
+    
 }
