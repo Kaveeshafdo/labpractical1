@@ -21,23 +21,7 @@
         }
        
         ?>
-        
-<!--        <table border="1">
-            
-              <tr>
-                    <td>The radius entered</td>
-                    <td><?php echo $radius;?></td>
-                </tr>
-                <tr>
-                    <td>The area</td>
-                    <td><?php echo $area;?></td>
-                </tr>
-                <tr>
-                    <td>The Perimeter</td>
-                    <td><?php echo $perimeter;?></td>
-                </tr>
-            
-        </table>-->
+   
 
     </body>
 </html>
