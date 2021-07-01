@@ -4,7 +4,7 @@
         <title>Lab practical 1 project2</title>
     </head>
     <body>
-    <form method="GET" action="index.php">
+    <form method="GET" action="index2.php">
         <center> <input type="text" id="temin" name="tem" placeholder="Enter fahrenheit value "><br><br></center>
            <center> <input type="submit" id="sub" name="submit" value="CONVERT"></center>
         </form>

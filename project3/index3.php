@@ -5,7 +5,7 @@
     </head>
     <body>
         
-        <form method="GET" action="index.php">
+        <form method="GET" action="index3.php">
             <center><input type="text" id="radin" name="rad" placeholder="Enter radius value"><br><br></center>
             <center><input type="submit" id="sub1" name ="submit" value="Answer"></center>
         </form>
